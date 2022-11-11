@@ -138,14 +138,3 @@ p:hover {
     padding-top: 50px;
     padding-left: 50px;
 }
-
-/* @media (max-width: 1440px) {
-    .container-fluid .btn-secondary {
-        display: none;
-    }
-    .first, .second, .third {
-        display: flex;
-        flex-direction: column;
-    }
-
-} */
