@@ -10,7 +10,7 @@ const closeForm = function () {
 
 window.onclick = function (event) {
   let closed = document.querySelector(".form-popup");;
-  if (event.target == closed) {
+  if (event.target === closed) {
     closeForm();
   }
 }
